@@ -1,2 +1,2 @@
 # UberClone
-A project to build a local Uber-like app for simulated users
+Building a local Uber-like app for 100 simulated users to facilitate ride booking, tracking, and payment.
